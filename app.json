@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "قنّاص",
+    "slug": "qannas-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "qannas",
+    "android": {
+      "package": "com.armoula40.qannas",
+      "adaptiveIcon": { "backgroundColor": "#020617" }
+    }
+  }
+}
